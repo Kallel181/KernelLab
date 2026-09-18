@@ -1,0 +1,8 @@
+[
+  {"id": "P1", "funcao": "Monitoramento cardíaco", "chegada": 0, "burst": 8, "prioridade": 1, "memoria": 120, "dispositivos": ["Rede"]},
+  {"id": "P2", "funcao": "Transmissão de telemetria", "chegada": 1, "burst": 4, "prioridade": 2, "memoria": 80, "dispositivos": ["Rede"]},
+  {"id": "P3", "funcao": "Geração de relatórios", "chegada": 2, "burst": 9, "prioridade": 4, "memoria": 200, "dispositivos": ["Disco"]},
+  {"id": "P4", "funcao": "Emissão de alarme crítico", "chegada": 3, "burst": 2, "prioridade": 0, "memoria": 60, "dispositivos": ["Audio", "Rede"]},
+  {"id": "P5", "funcao": "Backup do sistema", "chegada": 5, "burst": 12, "prioridade": 5, "memoria": 300, "dispositivos": ["Disco"]},
+  {"id": "P6", "funcao": "Atualização de dados", "chegada": 6, "burst": 6, "prioridade": 3, "memoria": 150, "dispositivos": ["Disco", "Rede"]}
+]
