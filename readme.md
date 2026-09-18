@@ -60,7 +60,7 @@ O simulador é estruturado em pipeline discreto de tempo (tempo = 0, 1, 2, ...),
 ### Passo a Passo
 
 1. Clonar ou extrair o repositório:
-   git clone https://github.com/usuario/kernellab.git
+   git clone https://github.com/Kallel181/KernelLab.git
    cd kernellab
 
 2. Criar e ativar um ambiente virtual (recomendado):
